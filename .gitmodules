@@ -1,3 +1,6 @@
 [submodule "test-submodule"]
 	path = test-submodule
 	url = https://github.com/Axxzilla/test-submodule
+[submodule "Animals"]
+	path = Animals
+	url = ../Animals
