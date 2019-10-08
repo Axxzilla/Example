@@ -3,4 +3,4 @@
 	url = https://github.com/Axxzilla/test-submodule
 [submodule "Animals"]
 	path = Animals
-	url = ../Animals
+	url = https://github.com/Axxzilla/Animals
