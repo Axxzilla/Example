@@ -4,3 +4,5 @@ gfhfghfdggfhg
 mmmmmm
 test
 jkjkh
+CONFLICT 123
+mmmmmm
